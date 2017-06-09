@@ -6,7 +6,10 @@
   font-size: 70px;
   font-weight: bold;
   color: white;
-  background-image: url("./resources/images/the-flatiron-building.png")
+  background-image: url("./resources/images/the-flatiron-building.png");
+}
+a{
+  color:white;
 }
 #links{
   font-size: 18px;
@@ -22,4 +25,10 @@
 }
 .descriptions{
   font-size: 14px;
+}
+#bottom{
+  font-size: 23px;
+  font-weight: bold;
+  color: White;
+  background-image: url("./resources/images/the-flatiron-building.png");
 }

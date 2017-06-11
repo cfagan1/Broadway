@@ -1,7 +1,7 @@
 .backgroundImage{
   background-image:url("./resources/images/the-flatiron-building.png")
 }
-h1, h3, p{
+h1, h3, p, a{
   font-family: Helvetica;
   text-align: center;
 }
@@ -12,6 +12,7 @@ h1, h3, p{
 }
 a{
   color:white;
+  font-size:18px;
 }
 #processHeader{
   font-size: 32px;
@@ -35,8 +36,4 @@ a{
   color:white;
   font-size: 11px;
   text-align:left;
-}
-a{
-  font-size:18px;
-  color:white;
 }
